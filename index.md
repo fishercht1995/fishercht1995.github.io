@@ -8,38 +8,43 @@ layout: home
   style="float:right;">
   Jingyuan
 </h2>
-I am a Ph.D. student in the [Computer Science Department](https://cs.gmu.edu/) at [George Mason University](https://www2.gmu.edu/),
-where I work with [Dr. Yue Cheng](https://cs.gmu.edu/~yuecheng/) in [LeapLab](https://mason-leap-lab.github.io/).
+I am a Ph.D. student in the Computer Science Department at University of Virginia where I work with Dr. Yue Cheng and Dr. Songqing Chen
 
-Before particiapting the Ph.D. program, I was a system architect that had over ten years of hands-on experience in system
-architecture and development.
-
-My research interests include distributed systems and cloud computing. Specifically, serverless computing breaks the traditional server-based monolithic application models into fine-grained functions and allows tenants to pay-per-use. My current research focuses on providing in-memory object storage which is completely built and deployed atop ephemeral cloud functions. A typical application of my research is to accelerate data analytics workloads.
+My research interests include the operating system and cloud computing. Specifically, Serverless computing enables a new way of building and scaling cloud applications by allowing developers to write fine-grained cloud functions. My current research focuses on designing effective scheduling algorithms on both per server’s operating system and distributed serverless cluster levels. The goal is to accelerate the overall performance of serverless clusters and minimize contention costs among users’ tasks.
 
 
 ### Publications
-* Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing, ACM SoCC 2020
-Benjamin Carver, **Jingyuan Zhang**, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng
+* SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training, USENIX FAST 2023 (Under Review)
+Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue Cheng, Bo Ji, Ali Butt
 
-* InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache, USENIX FAST 2020  
-Ao Wang<sup>†</sup>, **Jingyuan Zhang**<sup>†</sup>, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng  
-<sup>†</sup>These authors contributed equally to the work.  
+* SFS: Smart OS Scheduling for Serverless Functions, The International Conference for High Performance Computing, Networking, Storage, and Analysis
+(SC’22)
+**Best Student Paper Finalist**
+**Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
 
-* In Search of a Fast and Efficient Serverless DAG Engine, PDSW 2019  
-Benjamin Carver, **Jingyuan Zhang**, Ao Wang, Yue Cheng
+* Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21) 
+**Yuqi Fu**, Wenjia Zheng, Ying Mao, Dingwen Tao, Long Cheng
 
-* HyperFaaS: A Truly Elastic Serverless Computing Framework, Poster, USENIX NSDI 2019  
-**Jingyuan Zhang**, Ao Wang, Min Li, Yuan Chen, Yue Cheng
+* Progress Based Load Balancing for Containerized Deep Learning Applications, 2019 IEEE International Conference on Big Data (BigData’19)
+**Yuqi Fu**, Shaolun Zhang, Jose Terrero, Ying Mao, and Guangya Liu
+
 
 ### Working Experience
-* 05/2020 - 08/2020, Research Intern, NetApp, Inc
-* 01/2019 - present, Graduate Research Assistant, George Mason University
-* 08/2018 - 12/2018, Graduate Teaching Assistant, George Mason University
-* 10/2015 – 06/2018, Principal Systems Architect, Shanghai Bamaying Education Technology Co. Ltd.
-* 04/2007 - 09/2015, Systems Architect/Technical Director, The World Traveller Co. Ltd.
-* 03/2005 - 03/2007, Senior Software Engineer, The9 Limited
-* 06/2003 - 11/2004, Programmer, NEC Solution China Co. Ltd.
+* 05/2022 - 08/2022, Research Intern, ByteDance
 
-### Selected Award
-* Student Grant, USENIX FAST 2020
-* Student Grant, USENIX NSDI 2019
+### Professional Services
+#### External Review
+* NAS (storage track), IEEE International Conference on Networking, Architecture, and Storage, 2022 
+
+* HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2022 
+
+* SEC, ACM/IEEE Symposium on Edge Computingm, 2022 
+
+* ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021 
+
+* HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2021
+#### Student Volunteer
+* ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021
+
+
+
