@@ -22,7 +22,7 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 🏆Best Student Paper Finalist
 **Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
 
-* Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21) 
+* Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21)
 **Yuqi Fu**, Wenjia Zheng, Ying Mao, Dingwen Tao, Long Cheng
 
 * Progress Based Load Balancing for Containerized Deep Learning Applications, 2019 IEEE International Conference on Big Data (BigData’19)
