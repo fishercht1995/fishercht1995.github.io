@@ -15,18 +15,18 @@ My research interests include the operating system and cloud computing. Specific
 
 ### Publications
 * SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training, USENIX FAST 2023 (Under Review)
-Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue Cheng, Bo Ji, Ali Butt
+  Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue Cheng, Bo Ji, Ali Butt
 
 * SFS: Smart OS Scheduling for Serverless Functions, The International Conference for High Performance Computing, Networking, Storage, and Analysis
 (SC’22)
-🏆Best Student Paper Finalist
-**Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
+  🏆Best Student Paper Finalist
+  **Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
 
 * Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21)
-* **Yuqi Fu**, Wenjia Zheng, Ying Mao, Dingwen Tao, Long Cheng
+  **Yuqi Fu**, Wenjia Zheng, Ying Mao, Dingwen Tao, Long Cheng
 
 * Progress Based Load Balancing for Containerized Deep Learning Applications, 2019 IEEE International Conference on Big Data (BigData’19)
-**Yuqi Fu**, Shaolun Zhang, Jose Terrero, Ying Mao, and Guangya Liu
+  **Yuqi Fu**, Shaolun Zhang, Jose Terrero, Ying Mao, and Guangya Liu
 
 
 ### Working Experience
