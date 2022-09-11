@@ -19,7 +19,9 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 
 * SFS: Smart OS Scheduling for Serverless Functions, The International Conference for High Performance Computing, Networking, Storage, and Analysis
 (SC’22)
+
 **Best Student Paper Finalist**
+
 **Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
 
 * Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21) 
@@ -32,7 +34,8 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 ### Working Experience
 * 05/2022 - 08/2022, Research Intern, ByteDance
 
-### Professional Services
+### Professional Service
+
 #### External Review
 * NAS (storage track), IEEE International Conference on Networking, Architecture, and Storage, 2022 
 
@@ -43,6 +46,7 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 * ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021 
 
 * HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2021
+
 #### Student Volunteer
 * ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021
 
