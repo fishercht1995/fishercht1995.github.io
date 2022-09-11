@@ -19,9 +19,7 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 
 * SFS: Smart OS Scheduling for Serverless Functions, The International Conference for High Performance Computing, Networking, Storage, and Analysis
 (SC’22)
-
-**Best Student Paper Finalist**
-
+:rophy:
 **Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
 
 * Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21) 
