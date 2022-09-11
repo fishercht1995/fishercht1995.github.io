@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 idx: Home
-title: Jingyuan Zhang
-email: "jzhang33@gmu.edu"
+title: Yuqi Fu
+email: "yfu5@virginia.edu"
 description: >- # this means to ignore newlines until "baseurl:"
 #  A Bootstrap 4 start up project for Jekyll and Github Pages
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: tianium
 #github_username:  zhangjyr
 
-github: "http://github.com/zhangjyr"
+github: "http://github.com/fishercht1995"
 
 repository: "nicolas-van/bootstrap-4-github-pages"
 
