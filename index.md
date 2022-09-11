@@ -6,7 +6,7 @@ layout: home
   width="256"
   height="256"
   style="float:right;">
-  Jingyuan
+  Yuqi Fu
 </h2>
 I am a Ph.D. student in the Computer Science Department at University of Virginia where I work with Dr. Yue Cheng and Dr. Songqing Chen
 
