@@ -35,15 +35,11 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 ### Professional Service
 
 #### External Review
-* NAS (storage track), IEEE International Conference on Networking, Architecture, and Storage, 2022 
-
-* HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2022 
-
-* SEC, ACM/IEEE Symposium on Edge Computingm, 2022 
-
-* ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021 
-
-* HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2021
+* NAS (storage track), IEEE International Conference on Networking, Architecture, and Storage, 2022   
+* HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2022   
+* SEC, ACM/IEEE Symposium on Edge Computingm, 2022   
+* ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021   
+* HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing, 2021  
 
 #### Student Volunteer
 * ICDCS, 41st IEEE International Conference on Distributed Computing Systems, 2021
