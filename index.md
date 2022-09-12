@@ -2,7 +2,7 @@
 layout: home
 ---   
 <h2>
-<img src="image/2012_sq.jpg"
+<img src="image/yuqi_img.jpg"
   width="256"
   height="256"
   style="float:right;">
