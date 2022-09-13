@@ -14,9 +14,6 @@ My research interests include the operating system and cloud computing. Specific
 
 
 ### Publications
-* SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training, USENIX FAST 2023 (Under Review)  
-Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue Cheng, Bo Ji, Ali Butt
-
 * SFS: Smart OS Scheduling for Serverless Functions, The International Conference for High Performance Computing, Networking, Storage, and Analysis
 (SC’22)  
 🏆Best Student Paper Finalist  
@@ -32,7 +29,7 @@ Redwan Ibne Seraj Khan, Ahmad Hossein Yazdani, **Yuqi Fu**, Arnab K. Paul, Yue C
 ### Working Experience
 * 05/2022 - 08/2022, Research Intern, ByteDance
 
-### Professional Service
+### Professional Services
 
 #### External Review
 * NAS (storage track), IEEE International Conference on Networking, Architecture, and Storage, 2022   
