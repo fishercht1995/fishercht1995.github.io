@@ -17,8 +17,8 @@ My research interests include the operating system and cloud computing. Specific
 * SFS: Smart OS Scheduling for Serverless Functions, The International Conference for High Performance Computing, Networking, Storage, and Analysis
 (SC’22)  
 🏆Best Student Paper Finalist  
-[paper](https://arxiv.org/abs/2209.01709) | slide  
-**Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
+**Yuqi Fu**, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen  
+[paper](https://arxiv.org/abs/2209.01709) | [slide](../files/sc22-final.pdf)  
 
 * Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21)  
 **Yuqi Fu**, Wenjia Zheng, Ying Mao, Dingwen Tao, Long Cheng
