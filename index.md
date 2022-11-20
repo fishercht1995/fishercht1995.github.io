@@ -21,7 +21,7 @@ My research interests include the operating system and cloud computing. Specific
 [paper](https://arxiv.org/abs/2209.01709) | [slide](../files/sc22-final.pdf)  
 
 * Speculative Container Scheduling for Deep Learning Applications in a Kubernetes Cluster, IEEE Systems Journal (ISJ’21)  
-**Yuqi Fu**, Wenjia Zheng, Ying Mao, Dingwen Tao, Long Cheng
+Ying Mao, **Yuqi Fu**, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao  
 
 * Progress Based Load Balancing for Containerized Deep Learning Applications, 2019 IEEE International Conference on Big Data (BigData’19)  
 **Yuqi Fu**, Shaolun Zhang, Jose Terrero, Ying Mao, and Guangya Liu
