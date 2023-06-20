@@ -32,6 +32,7 @@ Ying Mao, **Yuqi Fu**, Wenjia Zheng, Long Cheng, Qingzhi Liu, Dingwen Tao
 
 
 ### Working Experience
+* 05/2023 - 08/2023, Research Intern, Adobe
 * 05/2022 - 08/2022, Research Intern, ByteDance
 
 ### Professional Services
