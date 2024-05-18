@@ -8,7 +8,7 @@ layout: home
   style="float:right;">
   Yuqi Fu
 </h2>
-I am a Ph.D. student in the Computer Science Department at University of Virginia where I work with Dr. Yue Cheng and Dr. Songqing Chen
+I am a Ph.D. Candidate in the Computer Science Department at University of Virginia where I work with Dr. Yue Cheng and Dr. Songqing Chen
 
 My research interests include the operating system and cloud computing. Specifically, Serverless computing enables a new way of building and scaling cloud applications by allowing developers to write fine-grained cloud functions. My current research focuses on designing effective scheduling algorithms on both per server’s operating system and distributed serverless cluster levels. The goal is to accelerate the overall performance of serverless clusters and minimize contention costs among users’ tasks.
 
